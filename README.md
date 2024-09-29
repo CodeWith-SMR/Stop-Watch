@@ -1,7 +1,7 @@
 # Stop-Watch
 Design: CodeWithSMR
 
-Stop-Watch App
+##Stop-Watch App
 Welcome to the **Stop-Watch App**! This simple yet powerful app allows users to measure time accurately with start, stop, and reset functionalities. The app is perfect for timing events, workouts, or any task requiring precise time tracking.
 
 ## Features
