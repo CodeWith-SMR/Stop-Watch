@@ -20,7 +20,7 @@ Welcome to the **Stop-Watch App**! This simple yet powerful app allows users to 
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/stop-watch-app.git
+    https://codewith-smr.github.io/Stop-Watch/
     ```
 
 2. Navigate to the project directory:
